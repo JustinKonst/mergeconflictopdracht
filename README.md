@@ -1,136 +1,33 @@
 # mergeconflictopdracht een eind opdracht 
 
-## doelen:
-Maak van 3 verschillende merge conflicten
-- deleted file
-- zelfde regel
-- nieuwe regels beide houden
-Los deze op
+Yo yo yo, I hate Joe
 
+I hate that his smile makes my penis grow
 
-## voorbereiding
-- met je groeps genoot kies je in welke github account je gaat samenwerken, deze noemen we student 1
-- student 1 forked deze repository
-- student 1 nodigd student 2 uit
-- student 2 cloned de repo van student 1
-- student 1 werkt op de main
-- student 2 maakt een nieuwe branch met de naam feature
-```
-git branch feature
-```
-- student 2 checked feature uit
+He's trying to feminize the western male
 
-```
-git checkout feature
-```
-- student 2 pushed deze meteen even naar de repo
-```
-git push --set-upstream origin feature
-```
+And I hate it cuz I secretly want to get railed
 
-## oefening: deleted file
-- student 1 werkt op main
-- student 2 werkt op feature
+The 5G vaccines are gonna turn me into a femboy
 
-- student 1 past oldgreeting.py aan, zet een andere (nette!) tekst als greeting neer
-- student 2 maakt een newgreeting.py aan, en maakt een newgreeting function, met dezelfde tekst als de oude oldgreeting.py
-- student 2 delete oldgreeting.py
+I wish I wasn't so eager to suck off another boy
 
-- student 1 + 2 commiten hun werk
+The mask mandates are literal tyranny
 
-- push!
-- pull alletwee
-- student 1 doet een checkout van feature:
-```
-git checkout feature
-```
-- student 1 doet een pull
-```
-git pull
-```
-- student 1 doet een checkout van main:
-```
-git checkout main
-```
-- bij student 1 mergen we nu feature in main
-```
-git merge feature
-```
-- los samen het merge conflict op
-- add, commit, push
-- pull alletwee
+I'm going to cum if I see a queer near me
 
+Coronavirus is a total hoax
 
-## oefingen: dezelfde regel
-- student 1 werkt op main
-- student 2 werkt op feature
+Why the fuck do I want a massive dick in my throat
 
-- de basicHaiku vinden we saai
-- verander alletwee 1 van de 3 regels, overleg wie welke veranderd
-```
-["Toward those short trees","We saw a hawk descending","On a day in spring."]
-```
-### regel nummers:
-- Toward those short trees = 1
-- We saw a hawk descending = 2
-- On a day in spring. = 3
+Election fraud, the whole thing was a sham
 
+I want to be dominated by a big strong man
 
-- student 1 + 2 commiten hun werk
-- push!
-- pull alletwee
-- student 1 doet een checkout van feature:
-```
-git checkout feature
-```
-- student 1 doet een pull
-```
-git pull
-```
-- student 1 doet een checkout van main:
-```
-git checkout main
-```
-- bij student 1 mergen we nu feature in main
-```
-git merge feature
-```
-- los samen het merge conflict op, zorg dat jullie beide changes blijven bestaan
-- add, commit, push
-- pull alletwee
+Storm the Capitol, let's kill the Dems
 
+I want to feel another man's gems
 
+Yo yo yo, I hate Joe
 
-
-## oefening: 
-- student 1 werkt op main in main.py
-- student 2 werkt op feature in main.py
-
-- maak alletwee 1 haiku function erbij net als basicHaiku
-- noem de function student1Haiku of student2Haiku. Afhankelijk van welke rol jij hebt
-```
-zie https://github.com/progsen/haikugitopdracht voor ideeen
-```
-
-- student 1 + 2 commiten hun werk
-- push!
-- pull alletwee
-- student 1 doet een checkout van feature:
-```
-git checkout feature
-```
-- student 1 doet een pull
-```
-git pull
-```
-- student 1 doet een checkout van main:
-```
-git checkout main
-```
-- bij student 1 mergen we nu feature in main
-```
-git merge feature
-```
-- los samen het merge conflict op
-- add, commit, push
-- pull alletwee
+I hate his sexy smile it makes my penis grow
